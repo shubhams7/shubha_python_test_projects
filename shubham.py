@@ -4,4 +4,4 @@ sum = float(num1) + float(num2)
 print("sum " + str(sum))
 
 course = "this is a test"
-print(course.find(t))
+
